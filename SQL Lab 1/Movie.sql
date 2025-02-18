@@ -1,4 +1,5 @@
-create database movie_info;
+-- create database movie_info;
+use movie_info;
 CREATE TABLE
     Movie(
         Movie_ID INT,
