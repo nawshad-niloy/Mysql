@@ -1,3 +1,4 @@
+Create database Movie_Info;
 USE Movie_Info;
 
 CREATE TABLE Director (
